@@ -1,0 +1,51 @@
+body{
+background-color: 	#faebd7;
+}
+
+
+
+
+
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: darkblue;
+}
+
+hr{
+    border: black;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 50px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+   
+}
+table {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-color: #b0c4de;
+    color:#191970;
+}
+ p{
+    color: #008080	;
+ }
+
+
+a{
+    font-size: larger;
+    color: #5C469C;
+}
+
+.border{
+    border-color: goldenrod;
+}
+
+.font{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}

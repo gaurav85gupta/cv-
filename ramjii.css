@@ -1,0 +1,48 @@
+body{
+    background-color: orange;
+}
+
+
+img{
+ height: 600px;   
+ width:  600px;
+ 
+}
+ 
+table{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    border-style:none;
+    border-top-style: double;
+    border-width:10px ;
+    
+}
+
+
+h1{
+    font-size: 50px;
+   
+}
+
+th{
+    font-size: 20px;
+}
+
+td{
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ram{
+    color: red;
+}
+
+.hanuman{
+    color: red;
+}
+
+h1:hover{
+    background-color: purple ;
+}

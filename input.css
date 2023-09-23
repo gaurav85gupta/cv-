@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+}
+
+input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px;
+}
+
+label{
+    color:goldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
